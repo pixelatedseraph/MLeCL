@@ -9,6 +9,6 @@ typedef struct test{
 }test;
 
 int main(){
-	printf("%d : Bytes \n",sizeof(test));
+	printf("%d : Bytes \n",sizeof(float));
 	return 0;
 }
